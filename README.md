@@ -1,5 +1,6 @@
 ## Offical PyTorch code for ["Photon-Limited Blind Deconvolution Using Unsupervised Iterative Kernel Estimation"](https://ieeexplore.ieee.org/document/9982288)
 
+![Blind-Deconv-Figure](https://user-images.githubusercontent.com/20774419/207951660-3bfb6fec-e75a-4bd6-a93b-c7e7bf152dec.png)
 
 ## Instructions
 1. Create a local copy of repository using the following commands
